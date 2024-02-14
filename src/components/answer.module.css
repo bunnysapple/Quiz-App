@@ -1,0 +1,33 @@
+.answerBox {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  width: fit-content;
+  margin-bottom: 1em;
+  min-height: max-content;
+  z-index: 999;
+}
+
+.button {
+  padding: 1em;
+  margin: 0.5em;
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.button:hover {
+  cursor: pointer;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+  border: 1px solid rgba(0, 0, 0, 0.5);
+}
+
+.correct {
+  background-color: rgb(87, 189, 130);
+  color: white;
+}
+.incorrect {
+  background-color: rgb(189, 87, 87);
+  color: white;
+}

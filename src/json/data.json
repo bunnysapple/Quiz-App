@@ -1,0 +1,92 @@
+{
+  "questions": [
+    {
+      "question": "How many bones are there in a human body?",
+      "options": ["210", "216", "206", "208"],
+      "answer": "206",
+      "image": "./pictures/happybones.png"
+    },
+    {
+      "question": "What is the function of mitochondria?",
+      "options": [
+        "Generate energy",
+        "Photosynthesis",
+        "Contain DNA",
+        "Make proteins"
+      ],
+      "answer": "Generate energy",
+      "image": "./pictures/mitochondria.jpg"
+    },
+    {
+      "question": "How many days does it take for the Earth to orbit the Sun?",
+      "options": ["320", "356", "365", "366"],
+      "answer": "365",
+      "image": "./pictures/earth.jpg"
+    },
+    {
+      "question": "What year was the World Wide Web invented?",
+      "options": ["2001", "1990", "1988", "2004"],
+      "answer": "1990",
+      "image": "./pictures/worldwideweb.jpg"
+    },
+    {
+      "question": "Which mountain range is the Mount Everest located in?",
+      "options": ["Alps", "Andes", "Himalayas", "Atlas Mountains"],
+      "answer": "Himalayas",
+      "image": "./pictures/mountain.jpg"
+    },
+    {
+      "question": "Which country has the largest population?",
+      "options": ["India", "Russia", "China", "America"],
+      "answer": "China",
+      "image": "./pictures/countries.jpg"
+    },
+    {
+      "question": "Who is known as the fastest man in the world?",
+      "options": [
+        "Florence Griffith-Joyner",
+        "Tyson Gay",
+        "Usain Bolt",
+        "Yohan Blake"
+      ],
+      "answer": "Usain Bolt",
+      "image": "./pictures/fast.jpg"
+    },
+    {
+      "question": "What chemical Element is represented by \"C\"?",
+      "options": ["Calcium", "Carbon", "Chromium", "Chlorine"],
+      "answer": "Carbon",
+      "image": "./pictures/chemical.jpg"
+    },
+    {
+      "question": "What is the smallest prime number greater than 10?",
+      "options": ["2", "13", "11", "17"],
+      "answer": "11",
+      "image": "./pictures/numbers.jpg"
+    },
+    {
+      "question": "Who represents wisdom and warfare in greek myths?",
+      "options": ["Ares", "Odysseus", "Athena", "Apollo"],
+      "answer": "Athena",
+      "image": "./pictures/greekgod.jpg"
+    },
+    {
+      "question": "Where is the Taj Mahal located?",
+      "options": ["China", "Indonesia", "Japan", "India"],
+      "answer": "India",
+      "image": "./pictures/tajmahal.jpg"
+    },
+    {
+      "question": "What is your body's largest organ?",
+      "options": ["Large Intestine", "Skin", "Small Intestine", "Liver"],
+      "answer": "Skin",
+      "image": "./pictures/organs.jpg"
+    },
+    {
+      "question": "When did World War 1 end?",
+      "options": ["1914", "1948", "1918", "1924"],
+      "answer": "1918",
+      "image": "./pictures/war.jpg"
+    }
+  ]
+}
