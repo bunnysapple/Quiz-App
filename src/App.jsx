@@ -28,9 +28,6 @@ function App() {
     setOptions(shuffle(questions[num]["options"]));
     setChange(false);
   }
-  function colorSetter() {
-    return clicked ? (correct ? "correct" : "incorrect") : "default";
-  }
   useEffect(() => {
     setChange(true);
   }, [num]);
@@ -40,7 +37,7 @@ function App() {
   }, [start, finish]);
 
   return (
-    <div className={`everything ${colorSetter()}`}>
+    <div className={`everything`}>
       <Header start={start} finish={finish} />
       {start ? (
         <Game
@@ -74,7 +71,7 @@ function App() {
           setChange={setChange}
         />
       )}
-      <Floaters />
+      <Floaters clicked={clicked} correct={correct} />
     </div>
   );
 }

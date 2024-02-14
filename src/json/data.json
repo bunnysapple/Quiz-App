@@ -25,8 +25,8 @@
     },
     {
       "question": "What year was the World Wide Web invented?",
-      "options": ["2001", "1990", "1988", "2004"],
-      "answer": "1990",
+      "options": ["2001", "1989", "1988", "2004"],
+      "answer": "1989",
       "image": "./pictures/worldwideweb.jpg"
     },
     {
@@ -38,7 +38,7 @@
     {
       "question": "Which country has the largest population?",
       "options": ["India", "Russia", "China", "America"],
-      "answer": "China",
+      "answer": "India",
       "image": "./pictures/countries.jpg"
     },
     {

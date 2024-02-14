@@ -1,8 +1,15 @@
 import styles from "./floaters.module.css";
 
-export default function Floaters() {
+export default function Floaters({ clicked, correct }) {
+  function colorSetter() {
+    return clicked
+      ? correct
+        ? styles.correct
+        : styles.incorrect
+      : styles.default;
+  }
   return (
-    <div className={styles.container}>
+    <div className={`${styles.container} ${colorSetter()}`}>
       <div unselectable="on" className={`${styles.floater} ${styles.large}`}>
         ?
       </div>
