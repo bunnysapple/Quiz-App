@@ -1,6 +1,6 @@
 This is a personal project that I completed in JavaScript using React + Vite to help me better learn front end development with React. This is not a perfect piece but I am considering this complete for now.
 
-I wish to point out that none of the images that I have used belongs to me, nor do I claim them. They are all images I came across on <a href="https://www.freepik.com/">Freepik</a>. I have listed futher down the links to the images on freepik I downloaded and used for this project. If the original creators have any issues with me using these images, please contact me through my email address(athulsunil04@gmail.com) and I would be glad to remove those images from this project.
+I wish to point out that none of the images that I have used belongs to me, nor do I claim them. They are all images I came across on <a href="https://www.freepik.com/">Freepik</a>. I have listed futher down the links to the images on freepik I downloaded and used for this project. If the original creators have any issues with me using these images I would be glad to remove those images from this project.
 
 Original artists:
 
